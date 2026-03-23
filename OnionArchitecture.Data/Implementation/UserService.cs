@@ -4,7 +4,7 @@ using OnionArchitecture.Domain.DTO;
 using OnionArchitecture.Domain.Models;
 
 namespace OnionArchitecture.Data.Implementation
-{
+{ 
     public class UserService : IUserService
     {
 
